@@ -6,6 +6,8 @@ This repository extracts nighttime light (NTL) data for Indian cities using Goog
 
 The project loads city coordinates, computes average nighttime light values from the NOAA VIIRS dataset, and writes the results to a CSV file.
 
+**Note:** This project was developed with AI assistance and is not entirely hand-coded.
+
 ## Prerequisites
 
 - Python 3.11 or later
